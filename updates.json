@@ -1,3 +1,13 @@
 {
-  "addons": {}
+  "addons": {
+    "musinsa-en@katsudom": {
+      "updates": [
+        {
+          "version": "0.1.2",
+          "update_link": "https://katsudom.github.io/musinsa-extension/musinsa-en-0.1.2.xpi",
+          "update_hash": "sha256:d72676056559f9cdb6ee0fdff29973fd9a7c0975ecb8f9e712fa7e620ab0cd1c"
+        }
+      ]
+    }
+  }
 }
