@@ -11,6 +11,11 @@
           "version": "0.1.3",
           "update_link": "https://katsudom.github.io/musinsa-extension/musinsa-en-0.1.3.xpi",
           "update_hash": "sha256:f374a797448bd8959ebded4a3e7a4fd28caf9e95eb0c330c6d6c9df004fbece9"
+        },
+        {
+          "version": "0.1.4",
+          "update_link": "https://katsudom.github.io/musinsa-extension/musinsa-en-0.1.4.xpi",
+          "update_hash": "sha256:26bd1074a246315814540eca51b224046fcd0c16b3f7667ccac8a704eb573bf5"
         }
       ]
     }
